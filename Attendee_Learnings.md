@@ -8,5 +8,5 @@ We're excited to see what you've learned today. Please take a moment to share yo
 
 For example:
    
-   - **Name:** Mehul Patel <br>
+   - **Name:** Princy Patel <br>
      **Learnings:** Explored Docker containerization and it's practical applications in development.
