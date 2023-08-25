@@ -1,4 +1,6 @@
-# Attendee Learnings
+Princy Hareshbhai Patel<br>
+
+Explored GIT and its practical applications# Attendee Learnings
 
 Hello, Workshop Attendees!
 
