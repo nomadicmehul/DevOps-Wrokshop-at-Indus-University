@@ -34,7 +34,7 @@
 ✅ Prerequisites:
 - Bring your system (laptop) with you, should have Docker installed on it
 - Should have minikube installed on your PC. 
-- Sign up for a free trial on Google Cloud (not necessary)
+- Sign up for a free trial on [Google Cloud](https://youtu.be/qVop0wK-RNE) or [AWS Cloud](https://youtu.be/u8CEclS9AM4). 
 
 ## How to Share Your Learnings
 
